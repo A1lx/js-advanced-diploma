@@ -4,7 +4,7 @@
   "description": "Вы неплохо овладели не только продвинутыми возможностями JS, но и инфраструктурными инструментами. Вам поручили первый проект: разработать небольшую пошаговую игру.",
   "main": "index.js",
   "scripts": {
-    "start": "webpack serve --mode development",
+    "start": "webpack serve --mode production",
     "test": "jest",
     "lint": "eslint .",
     "build": "webpack --mode production"
