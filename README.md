@@ -1,6 +1,6 @@
-# Дипломное задание к курсу «Продвинутый JavaScript». Retro Game
+[Демонстрация работы](https://a1lx.github.io/ajs-diploma/)
 
-###### tags: `netology` `advanced js`
+# Дипломное задание к курсу «Продвинутый JavaScript». Retro Game. Описание
 
 ## Предыстория
 
